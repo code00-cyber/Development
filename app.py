@@ -1,4 +1,4 @@
-from flask import Flask, render_template, jasonifyfy
+from flask import Flask, render_template, jasonify
 app=Flask(__name__)
 
 JOBS=[
